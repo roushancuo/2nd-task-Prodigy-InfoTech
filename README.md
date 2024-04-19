@@ -1,4 +1,4 @@
-Your code looks good for a simple image encryption and decryption tool using pixel manipulation. However, there are a few improvements and considerations you might want to keep in mind:
+ there are a few improvements and considerations you might want to keep in mind:
 
 1. **Security**: The encryption method you're using is quite simple, adding a constant value to each pixel. This is susceptible to basic attacks. For better security, you might want to explore more robust encryption algorithms like AES.
 
